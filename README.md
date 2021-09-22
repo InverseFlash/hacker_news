@@ -20,4 +20,4 @@ These techniques create a very fluid feel when a user scrolls the interface, as 
 
 ## Example
 
-![Screen Recording]('https://github.com/InverseFlash/hacker_news/media/gifs/news-recording-gif-compress.gif')
+![Screen Recording](./media/gifs/news-recording-gif-compress.gif)
